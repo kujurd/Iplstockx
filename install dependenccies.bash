@@ -1,0 +1,1 @@
+npm install express firebase-admin axios cors react-router-dom @mui/material @emotion/react @emotion/styled firebase @mui/x-data-grid

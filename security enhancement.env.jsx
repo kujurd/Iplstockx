@@ -1,0 +1,3 @@
+REACT_APP_UPI_ID=dkdeepkong55@axl
+REACT_APP_RAZORPAY_KEY=your_razorpay_key
+REACT_APP_FIREBASE_API_KEY=your_firebase_key
